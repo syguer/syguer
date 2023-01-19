@@ -7,7 +7,7 @@
     "home" : "Yokohama, Japan",
     "languages" : [
         {
-            "Japanese" : "native"
+            "Japanese" : "Native"
         },
         {
             "English" : "Intermediate"
